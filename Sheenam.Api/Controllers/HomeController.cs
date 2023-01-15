@@ -15,6 +15,6 @@ namespace Sheenam.Api.Controllers
     {
         [HttpGet]
         public ActionResult<string> Get() =>
-            Ok("Hello Mario, the princess is in another castle");
+            Ok("Hello Mario , the princess is in another castle");
     }
 }
